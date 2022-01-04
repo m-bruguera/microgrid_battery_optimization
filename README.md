@@ -1,4 +1,5 @@
-# microgrid_battery_optimization
+# Microgrid Battery Dispatch Optimization
+
 Electricity is essential to daily life in the developed world, powering critical systems and services such as
 hospitals, water supply and wastewater treatment, and other functions. Power outages--such as those
 driven by increasingly large wildfires and Public Safety Power Shutoffs in California or the recent
